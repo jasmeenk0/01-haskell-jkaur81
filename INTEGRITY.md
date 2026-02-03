@@ -1,0 +1,1 @@
+Used lecture notes and online resources such as the Haskell documentation to understand recursion better as well as pattern matching, and list operations.
